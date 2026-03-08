@@ -12,5 +12,7 @@
   <br><br>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=NBTPackets&style=for-the-badge">
-  </a> хуйня какая-то да?
+  </a> 
+  <br><br>
+  хуйня какая-то да?
 </p>
