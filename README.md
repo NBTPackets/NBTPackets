@@ -5,4 +5,12 @@
     <img src="https://img.shields.io/badge/Telegram-NBTPackets-2CA5E0?logo=telegram&logoColor=white"/>
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=NBTPackets&color=green)
+
+Хмм... Тяжело придумать что то реально важное
+
+<p align="center">
+  <br><br>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=NBTPackets&style=for-the-badge">
+  </a>
+</p>
