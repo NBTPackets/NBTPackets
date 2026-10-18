@@ -1,10 +1,6 @@
-*************
-<p align="center">
-  В РАЗРАБОТКЕ (бляяять.... а что сюда надо писать?)
-  <br><br>
-  <a href="https://t.me/guardcrash">
-    <img src="https://img.shields.io/badge/Telegram-guardcrash-2CA5E0?logo=telegram&logoColor=white"/>
-  </a>
-</p>
+<img src="https://avatars.githubusercontent.com/u/260946733?v=4" width="100" height="100" />
 
-*************
+![People](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg) `18yo`  
+![Location](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg) `Warsaw, Poland` 
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=uIvPuGpT&leftColor=1E232A&rightColor=D2DCF6&type=unique&label=Views&style=lower)
